@@ -39,4 +39,16 @@ sections:
       description: Register your interest at www.for.edu.sg/skillsup
       button: More Info
       url: www.for.edu.sg/nypskillsup
+  - textcards:
+      title: Interested?
+      id: textcards
+      cards:
+        - title: "Register your interest at "
+          description: ""
+          linktext: www.for.edu.sg/skillsup
+          url: www.for.edu.sg/skillsup
+        - title: For more information
+          description: on Skills-UP Accelerator Programme Series go to
+          linktext: www.for.edu.sg/nypskillsup
+          url: www.for.edu.sg/nypskillsup
 ---
