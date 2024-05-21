@@ -32,4 +32,5 @@ sections:
       subtitle: We equip you with the
       id: infopic
       alt: Image alt text
+      image: /images/in_demand_skills.png
 ---
