@@ -33,12 +33,6 @@ sections:
       id: infopic
       alt: Image alt text
       image: /images/in_demand_skills.png
-  - infobar:
-      title: Interested?
-      id: infobar
-      description: Register your interest at www.for.edu.sg/skillsup
-      button: More Info
-      url: www.for.edu.sg/nypskillsup
   - textcards:
       title: Interested?
       id: textcards
@@ -47,7 +41,7 @@ sections:
           description: ""
           linktext: Register Interest
           url: www.for.edu.sg/skillsup
-        - title: Skills-UP Accelerator Programme Series
+        - title: Skills-Up Accelerator Programme Series
           description: ""
           linktext: More Info
           url: www.for.edu.sg/nypskillsup
