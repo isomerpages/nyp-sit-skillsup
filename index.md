@@ -37,6 +37,17 @@ sections:
       id: infopic
       image: /images/why_nyp.png
       alt: Image alt text
+  - infocols:
+      title: Testimonials
+      id: infocols
+      infoboxes:
+        - title: Jeremy Chong, LTA
+          description: The LTA digital accelerator programme allowed me to create
+            visualisations to inform decision-making.
+        - title: Wong Yi Wei, NYC
+          description: >
+            I now know how to get UiPath to work with Outlook, Edge, Excel, etc.
+            Looking forward to putting skills into practice.
   - textcards:
       title: Interested?
       id: textcards
