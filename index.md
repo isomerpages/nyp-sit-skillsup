@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: NYP Skills-Up
+description: NYP as your education partner
+image: /images/nyp_sit_logo.svg
 permalink: /
 notification: ""
 sections:
@@ -45,9 +45,8 @@ sections:
           description: The LTA digital accelerator programme allowed me to create
             visualisations to inform decision-making.
         - title: Wong Yi Wei, NYC
-          description: >
-            I now know how to get UiPath to work with Outlook, Edge, Excel, etc.
-            Looking forward to putting skills into practice.
+          description: I now know how to get UiPath to work with Outlook, Edge, Excel,
+            etc. Looking forward to putting skills into practice.
   - textcards:
       title: Interested?
       id: textcards
