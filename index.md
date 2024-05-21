@@ -31,7 +31,7 @@ sections:
       title: In-demand Skills
       subtitle: We equip you with the
       id: infopic
-      alt: Image alt text
+      alt: In demand IT skills
       image: /images/in_demand_skills.png
   - textcards:
       title: Interested?
