@@ -17,9 +17,8 @@ sections:
       alignment: right
   - infocols:
       title: Programmes
-      subtitle: We offer you with these
+      subtitle: we offer you with these
       id: infocols
-      linktext: Learn more
       infoboxes:
         - title: SkillsFuture Short Courses
           description: ""
@@ -33,6 +32,11 @@ sections:
       id: infopic
       alt: In demand IT skills
       image: /images/in_demand_skills.png
+  - infopic:
+      title: Why NYP?
+      id: infopic
+      image: /images/why_nyp.png
+      alt: Image alt text
   - textcards:
       title: Interested?
       id: textcards
@@ -45,9 +49,4 @@ sections:
           description: ""
           linktext: More Info
           url: www.for.edu.sg/nypskillsup
-  - infopic:
-      title: Why NYP?
-      id: infopic
-      image: /images/why_nyp.png
-      alt: Image alt text
 ---
