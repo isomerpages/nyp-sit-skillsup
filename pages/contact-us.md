@@ -9,7 +9,7 @@ locations:
       - Singapore 569830
       - ""
     operating_hours: []
-    maps_link: ""
+    maps_link: https://maps.app.goo.gl/46n8S2U1bWsWLK1L7
     title: Nanyang Polytechnic
 contacts:
   - content:
