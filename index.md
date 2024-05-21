@@ -28,10 +28,8 @@ sections:
         - title: On-the-job Training
           description: ""
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: In-demand Skills
+      subtitle: We equip you with the
       id: infopic
-      description: Infopic description
-      button: Button Text
       alt: Image alt text
 ---
