@@ -34,8 +34,9 @@ sections:
       alt: Image alt text
       image: /images/in_demand_skills.png
   - infobar:
+      title: Interested?
       id: infobar
-      description: For more information on Skills-UP Accelerator Programme Series
-      button: Skills-Up Accelerator
+      description: "Register your interest at www.for.edu.sg/skillsup "
+      button: More Info
       url: www.for.edu.sg/nypskillsup
 ---
