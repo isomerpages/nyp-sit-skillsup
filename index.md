@@ -45,4 +45,9 @@ sections:
           description: ""
           linktext: More Info
           url: www.for.edu.sg/nypskillsup
+  - infopic:
+      title: Why NYP?
+      id: infopic
+      image: /images/why_nyp.png
+      alt: Image alt text
 ---
