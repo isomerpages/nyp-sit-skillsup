@@ -36,7 +36,7 @@ sections:
   - infobar:
       title: Interested?
       id: infobar
-      description: "Register your interest at www.for.edu.sg/skillsup "
+      description: Register your interest at www.for.edu.sg/skillsup
       button: More Info
       url: www.for.edu.sg/nypskillsup
 ---
