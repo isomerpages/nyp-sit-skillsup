@@ -2,31 +2,25 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: School of IT
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - 180 Ang Mo Kio Ave 8
+      - Singapore 569830
+      - ""
+    operating_hours: []
+    maps_link: ""
+    title: Nanyang Polytechnic
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6550 1681
+      - email: leow_zhen_zhen@nyp.edu.sg
+      - other: ""
+    title: Ms Leow Zhen Zhen
+  - content:
+      - phone: +65 6550 1611
+      - email: sun_yuanxin@nyp.edu.sg
+      - other: ""
+    title: Ms Sun Yuanxin
+feedback: ""
 ---
