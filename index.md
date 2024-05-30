@@ -51,11 +51,11 @@ sections:
       title: Interested?
       id: textcards
       cards:
-        - title: NYP Skills-Up Training
+        - title: NYP Skills-UP Accelerator Training
           description: ""
           linktext: Register Interest
           url: https://www.for.edu.sg/skillsup
-        - title: Skills-Up Accelerator Programme Series
+        - title: Other Courses
           description: ""
           linktext: More Info
           url: https://www.for.edu.sg/nypskillsup
