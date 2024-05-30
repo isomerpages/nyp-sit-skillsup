@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: School of IT
+agency_name: School of Information Technology
 locations:
   - address:
       - 180 Ang Mo Kio Ave 8
