@@ -54,7 +54,7 @@ sections:
         - title: NYP Skills-Up Training
           description: ""
           linktext: Register Interest
-          url: www.for.edu.sg/skillsup
+          url: https://www.for.edu.sg/skillsup
         - title: Skills-Up Accelerator Programme Series
           description: ""
           linktext: More Info
