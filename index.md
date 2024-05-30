@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: NYP Skills-Up
+title: NYP Skills-UP
 description: NYP as your education partner
 image: /images/nyp_logo.png
 permalink: /
