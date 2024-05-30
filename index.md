@@ -58,5 +58,5 @@ sections:
         - title: Skills-Up Accelerator Programme Series
           description: ""
           linktext: More Info
-          url: www.for.edu.sg/nypskillsup
+          url: https://www.for.edu.sg/nypskillsup
 ---
