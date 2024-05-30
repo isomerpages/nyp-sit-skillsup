@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d257o35i13z1u2.amplifyapp.com
 prod: https://master.d3fkq73p1byvc5.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/nyp_logo.png
+shareicon: /images/nyp_logo.svg
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
